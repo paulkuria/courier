@@ -1,0 +1,48 @@
+
+ h1, h4{
+     text-align: center;
+     color:white;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     background-color:hotpink;
+     
+ }
+
+ h3{
+     background-color:chartreuse;
+     text-align: center;
+     font-style: italic;
+
+ }
+
+ h2{
+     text-align: center;
+     background-color: blue;
+     font-family: fantasy;
+     color:wheat;
+     
+     
+ }
+ p{
+     text-align: center;
+     color: white;
+     background-color:brown
+ }
+ .forms{
+     text-align: center;
+     
+     
+ }
+    
+ }
+ .card-2{
+     background-color: lime;
+
+ }
+
+ .footer{
+     background-color:mediumorchid;
+     text-align: center;
+     color: white;
+ }
+     
+ 
